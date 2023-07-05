@@ -1,1 +1,1 @@
-Virtual Assitant for TAMU
+Virtual TA to assist students with queries
