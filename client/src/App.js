@@ -6,7 +6,7 @@ import user from './assets/user.svg';
 import send from './assets/send.svg';
 import './App.css';
 
-const OPENAI_API_KEY = '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';
+const OPENAI_API_KEY = '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';
 
 function App() {
   const [chatMessages, setChatMessages] = useState([]);
