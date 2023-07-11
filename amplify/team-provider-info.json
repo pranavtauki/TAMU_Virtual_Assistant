@@ -19,5 +19,26 @@
         }
       }
     }
+  },
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tamuvirtualta-main-145351-authRole",
+      "UnauthRoleArn": "arn:aws:iam::717473733227:role/amplify-tamuvirtualta-main-145351-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::717473733227:role/amplify-tamuvirtualta-main-145351-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tamuvirtualta-main-145351-deployment",
+      "UnauthRoleName": "amplify-tamuvirtualta-main-145351-unauthRole",
+      "StackName": "amplify-tamuvirtualta-main-145351",
+      "StackId": "arn:aws:cloudformation:us-east-1:717473733227:stack/amplify-tamuvirtualta-main-145351/6ed40bd0-2035-11ee-9560-0e35fad61303",
+      "AmplifyAppId": "dn5xe734pg3ml"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dn5xe734pg3ml",
+          "type": "manual"
+        }
+      }
+    }
   }
 }
