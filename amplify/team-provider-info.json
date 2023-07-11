@@ -10,6 +10,14 @@
       "StackName": "amplify-tamuvirtualta-dev-200041",
       "StackId": "arn:aws:cloudformation:us-east-1:717473733227:stack/amplify-tamuvirtualta-dev-200041/20b66090-1f97-11ee-913d-0a0ada0d6e67",
       "AmplifyAppId": "d6v8y3ur4idq0"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d6v8y3ur4idq0",
+          "type": "manual"
+        }
+      }
     }
   }
 }
